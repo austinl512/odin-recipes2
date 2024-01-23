@@ -15,4 +15,4 @@ To create the Odin recipe pages I had to use the following:
 - List item elements
 - Image embed elements
 
-Furthermore, I was able to practice basic Git commands and writing commit messages.
+Furthermore, I was able to practice using basic Git commands and writing commit messages.
